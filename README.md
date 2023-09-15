@@ -2,14 +2,9 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Amro Kerkiz
 
-   Student UT EID:
-
-2. Student Name:
-
-   Student UT EID:
-
+   Student UT EID: ank2268
  ...
 
 ##  Course Name: CS378 - Cloud Computing 
@@ -20,6 +15,7 @@
 
 # Add your Project REPORT HERE 
 
+Top 10 word count: ![Top 10 Word Count](top10wordcount.PNG)
 
 # Project Template
 
